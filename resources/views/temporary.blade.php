@@ -181,7 +181,7 @@
       	<div class="container">
       		<div class="introduction">
       			<div class="logo">
-					Lukas Owens
+					Lukas Owens was here
 				</div>
       		</div>
       		<div class="footer">
