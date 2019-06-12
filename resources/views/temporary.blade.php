@@ -26,7 +26,7 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
 
-        <meta name="description" content="ORLANDO, FL - Lukas Owens enjoys web development and is passionate about growth marketing. Welcome to my little home on the internet, lukasowens.com.">
+        <meta name="description" content="Lexington, KY - Lukas Owens enjoys web development and is passionate about growth marketing. Welcome to my little home on the internet, lukasowens.com.">
         <link rel="shortcut icon" href="/favicon.ico">
         <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
